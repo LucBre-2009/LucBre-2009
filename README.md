@@ -5,7 +5,8 @@
 I build simple and useful web tools for fun.
 
 * 💻 Python, HTML, CSS, JavaScript are some languanges I know
-<img height="125" alt="html" src="https://github.com/user-attachments/assets/a512a529-dc2f-4047-8986-09bea1c4b422" /> <img height="125" alt="css" src="https://github.com/user-attachments/assets/819af858-8831-4e20-8b6d-0f78baa76a11" /> <img height="125" alt="js" src="https://github.com/user-attachments/assets/0214f0e7-999a-4f6f-87bf-abe7beea6b30" /> <img height="125" alt="python" src="https://github.com/user-attachments/assets/1d06c9ba-c5b1-442e-bd16-a78dbd499647" />
+<img height="50" alt="html" src="https://github.com/user-attachments/assets/03b03c84-16bd-44cc-8d26-97888cc5d602" /> <img height="50" alt="css" src="https://github.com/user-attachments/assets/819af858-8831-4e20-8b6d-0f78baa76a11" /> <img height="50" alt="js" src="https://github.com/user-attachments/assets/0214f0e7-999a-4f6f-87bf-abe7beea6b30" /> <img height="50" alt="python" src="https://github.com/user-attachments/assets/2b461781-9726-424f-bc04-e288699ada62" />
+
 
 * ⚡ Focus on clean UI and practical projects
 
