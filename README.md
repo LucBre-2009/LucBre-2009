@@ -14,7 +14,7 @@ I build simple and useful web tools for fun.
 
 ### Timetable Generator
 
-Create and customize school timetables
+Create and customize timetables
 https://lucbre-2009.github.io/timetable-generator/
 
 ### QR Code Generator
@@ -24,7 +24,7 @@ https://lucbre-2009.github.io/qr-code-gen/
 
 ### Encoder / Decoder
 
-Simple tool for encoding and decoding data
+Simple tool for encoding and decoding text data
 https://lucbre-2009.github.io/Encoder-Decoder/
 
 ### Youtube Downloader
