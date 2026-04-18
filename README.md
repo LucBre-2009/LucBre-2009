@@ -40,4 +40,4 @@ https://github.com/LucBre-2009/yt-downloader
 
 ---
 
-Check out my [projects](https://lucbre-2009.github.io/Index/) and feel free to give feedback :)
+Check out my list of [projects](https://lucbre-2009.github.io/Index/) and feel free to give feedback :)
