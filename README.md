@@ -27,6 +27,11 @@ https://lucbre-2009.github.io/qr-code-gen/
 Simple tool for encoding and decoding data
 https://lucbre-2009.github.io/Encoder-Decoder/
 
+### Youtube Downloader
+
+Simple and small tool that runs 100% local on your device.
+https://github.com/LucBre-2009/yt-downloader
+
 ## Goals
 
 * Build useful tools
