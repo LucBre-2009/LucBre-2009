@@ -1,5 +1,4 @@
-<img height="170" alt="image" src="https://github.com/user-attachments/assets/10af81ad-693d-46b9-bec3-76915ce2c5f2" />
-
+<img height="120" alt="image" src="https://github.com/user-attachments/assets/42b7da4e-cad3-4af2-acec-aabe59c60047" />
 
 # Hi, I'm LucBre 
 
