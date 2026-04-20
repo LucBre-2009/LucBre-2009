@@ -1,4 +1,4 @@
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/42b7da4e-cad3-4af2-acec-aabe59c60047" />
+<img height="1000" alt="image" src="https://github.com/user-attachments/assets/42b7da4e-cad3-4af2-acec-aabe59c60047" />
 
 # Hi, I'm LucBre 
 
