@@ -1,3 +1,6 @@
+<img height="170" alt="image" src="https://github.com/user-attachments/assets/10af81ad-693d-46b9-bec3-76915ce2c5f2" />
+
+
 # Hi, I'm LucBre 
 
 ## About Me
