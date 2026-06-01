@@ -10,34 +10,10 @@ I build simple and useful web tools for fun.
 
 *  Focus on clean UI and practical projects
 
-## Projects I made
+## Projects I made are all linked here:[My projects](https://lucbre-2009.github.io/Index/)
 
-### Timetable Generator
-
-Create and customize timetables
-https://lucbre-2009.github.io/timetable-generator/
-
-### QR Code Generator
-
-Generate QR codes quickly
-https://lucbre-2009.github.io/qr-code-gen/
-
-### Encoder / Decoder
-
-Simple tool for encoding and decoding text data
-https://lucbre-2009.github.io/Encoder-Decoder/
-
-### Youtube Downloader
-
-Simple and small tool that runs 100% local on your device.
-https://github.com/LucBre-2009/yt-downloader
 
 ## Goals
 
 * Build useful tools
 * Improve my coding skills
-
-
----
-
-Check out my list of [projects](https://lucbre-2009.github.io/Index/) and feel free to give feedback :)
