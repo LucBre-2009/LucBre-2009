@@ -10,7 +10,7 @@ I build simple and useful web tools for fun.
 
 *  Focus on clean UI and practical projects
 
-## Projects I made are all linked here: [My projects](https://lucbre-2009.github.io/Index/)
+## Some of the projects I made are linked here: [My projects](https://lucbre-2009.github.io/Index/)
 
 
 ## Goals
